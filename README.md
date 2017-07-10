@@ -1,2 +1,3 @@
 # my_git
-A repository for git learn
+About python:
+A repository for my python learn
